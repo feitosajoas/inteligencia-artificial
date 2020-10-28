@@ -10,6 +10,7 @@ diametros = [[7], [10], [15], [30], [45]]
 #preços 
 precos = [[8], [11], [16], [38.5], [52]]
 
+#métodos de figura e cálculos
 plt.figure()
 plt.xlabel('Diâmetros(ccm)')
 plt.ylabel('Preços(R$)')
